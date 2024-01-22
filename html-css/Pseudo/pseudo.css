@@ -1,0 +1,24 @@
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: aqua;
+}
+
+li:nth-child() {
+    background-color: aqua;
+}
+
+button {
+    border-style: hidden;
+    border-radius: 20%;
+    font-family: serif;
+    border-color: aqua;
+    background-color: black;
+    color: rgb(255, 0, 0);
+}
+
+button:visited {
+    background-color: gray;
+}

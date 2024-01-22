@@ -1,0 +1,13 @@
+#p1{
+border-style: groove;
+border-width: 10px;
+border-color: gold;
+border-radius: 10px;
+}
+#h1
+{
+border-top-style: double;
+border-bottom-style: double;
+border-color: yellowgreen ;
+border-left-style:dashed
+}
